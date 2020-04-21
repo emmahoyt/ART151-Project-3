@@ -11,10 +11,10 @@ let story = "";
 let hasDiscovered = false;
 
 function preload() {
-  begin = loadImage('assets/0-BEGIN.jpeg');
-  grow = loadImage('assets/1-GROW.jpg');
-  connect = loadImage('assets/2-CONNECT.jpg');
-  end = loadImage('assets/3-END.png');
+  begin = loadImage('0-BEGIN.jpeg');
+  grow = loadImage('1-GROW.jpg');
+  connect = loadImage('2-CONNECT.jpg');
+  end = loadImage('3-END.png');
 }
 
 function setup() {
